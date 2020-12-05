@@ -14,3 +14,5 @@ class TestApp(kivy.app.App):
 
 app = TestApp()
 app.run()
+app.run()
+app = TestApp()
